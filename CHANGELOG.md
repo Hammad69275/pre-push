@@ -1,3 +1,6 @@
+## 1.0.5 
+ - Bump `cross-spawn` to `^7`
+
 ## 1.0.4
 - Fix error `Cannot find module` on Windows 10
 
